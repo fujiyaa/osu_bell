@@ -19,3 +19,8 @@ To install the Tampermonkey userscript from the provided GitHub link, follow the
 3. Tampermonkey should automatically detect the userscript and open a new tab with the installation prompt.
 4. Once installed, the userscript will be active and ready to use.
 5. If nothing happens and are using a Chromium browser (Chrome, Edge...), you may need to enable Developer Mode. (Extension Settings > Developer Mode)
+
+## Watch preview
+[![Watch the video](https://fujiyaa.github.io/forum/extras/osubell.png)](https://youtu.be/NeDkecgWNDs)
+
+*sounds choice for example only, defaults are normal sounds!
