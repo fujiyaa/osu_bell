@@ -19,16 +19,16 @@
     let lastValue2 = null;
 
     
-    // PUT YOUR LINKS TO MP3s HERE --------------------------------------------------------------------------
-    const sound1 = new Audio("https://www.myinstants.com/media/sounds/your-phone-ringing_TKtb5bz.mp3"); 
-    const sound2 = new Audio("https://www.myinstants.com/media/sounds/emotional-damage-meme.mp3"); 
-    // PUT YOUR LINKS TO MP3s HERE --------------------------------------------------------------------------
+    // PUT YOUR LINKS TO MP3s HERE --------------------------------------------------------------------------------------
+    const sound1 = new Audio("https://fujiyaa.github.io/forum/extras/default_chat.mp3"); 
+    const sound2 = new Audio("https://fujiyaa.github.io/forum/extras/default_notifications.mp3"); 
+    // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
     
-    // ADJUST VOLUME HERE -----------------------------------------------------------------------------------
+    // ADJUST VOLUME HERE -----------------------------------
     sound2.volume = 0.3; //  30%
     sound1.volume = 0.3; //  30%
-    // ADJUST VOLUME HERE -----------------------------------------------------------------------------------
+    //  - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
     function playSound(sound) {
