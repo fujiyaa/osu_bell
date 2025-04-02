@@ -16,7 +16,7 @@ Works on most browsers. You may need to enable "Developer Mode" in extension set
 To install the Tampermonkey userscript from the provided GitHub link, follow these steps:
 
 1. Make sure you have [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/) extension installed in your browser.
-2. Open the provided GitHub link: [osu!bell](https://github.com/fujiyaa/osu_bell/raw/main/osu!bell-1.1.js).
+2. Open the provided GitHub link: [osu!bell](https://github.com/fujiyaa/osu_bell/raw/main/osu!bell-1.1.user.js).
 3. Tampermonkey should automatically detect the userscript and open a new tab with the installation prompt.
 4. Once installed, the userscript will be active and ready to use.
 5. If nothing happens and are using a Chromium browser (Chrome, Edge...), you may need to enable Developer Mode. (Extension Settings > Developer Mode)
