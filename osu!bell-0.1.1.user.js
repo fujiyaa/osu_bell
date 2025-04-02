@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         osu!bell
 // @namespace    http://tampermonkey.net/
-// @version      0.1.1
+// @version      1.1
 // @description  enables sound notifications on osu! website
 // @author       Fujiya (t.me/fujiya_sama)
 // @match        https://osu.ppy.sh/*
