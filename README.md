@@ -9,7 +9,7 @@ Works on most browsers. You may need to enable "Developer Mode" in extension set
 - Plays sound, if notiffications counter increases
 - There are two different sounds for chat and else
 - You can set your sounds by editing links
-[![Here's how](https://fujiyaa.github.io/forum/extras/osubellset.png)]
+![Here's how](https://fujiyaa.github.io/forum/extras/osubellset.png)
 
 ## Installation
 
@@ -22,6 +22,6 @@ To install the Tampermonkey userscript from the provided GitHub link, follow the
 5. If nothing happens and are using a Chromium browser (Chrome, Edge...), you may need to enable Developer Mode. (Extension Settings > Developer Mode)
 
 ## Watch preview
-[![Watch the video](https://fujiyaa.github.io/forum/extras/osubell.png)](https://youtu.be/NeDkecgWNDs)
+[![Watch the video](https://fujiyaa.github.io/forum/extras/osubellyt.png)](https://youtu.be/NeDkecgWNDs)
 
 *sounds choice for example only, defaults are normal sounds!
